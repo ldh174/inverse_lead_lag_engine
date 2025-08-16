@@ -19,6 +19,6 @@
 - Tkinter
 
 **Screenshots**
-<img width="1364" height="953" alt="ILLE_Analysis_Page" src="https://github.com/user-attachments/assets/82cb687d-a1fb-4ad1-8655-87562d18e324" />
+<img width="1364" height="953" alt="Screenshot from 2025-08-15 21-37-37" src="https://github.com/user-attachments/assets/8655dac6-4778-4e2f-a89a-082b2bd88820" />
 <img width="1364" height="953" alt="ILLE_Rankings_Page" src="https://github.com/user-attachments/assets/69c4756c-b3cf-4c36-b683-70b92280b976" />
 
